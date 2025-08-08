@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-7092&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-7092" /> </p>
 
 
-- 🌱 I’m currently learning **JAVA,HTML,CSS,SQL,MangoDB,Maven,Jenkins,C,C++**
+- 🌱 I’m currently learning **JAVA,HTML,CSS,SQL,Maven,Jenkins,C,C++**
 
 - 👨‍💻 Some of my miniprojects found at [https://github.com/sanjay-7092](https://github.com/sanjay-7092)
 
