@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning and working on the  **JAVA,Spring boot,SQL** projects and also some basic understanding with UI languages **Javascript,React** and in deployment side working in **Docker**
 
-- 👨‍💻 Some of my miniprojects found at [https://github.com/sanjay-7092](https://github.com/sanjay-7092)
-
 - 📫 Reach me by e-mail **sajusanjay7092@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
