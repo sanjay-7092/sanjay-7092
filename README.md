@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-7092&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-7092" /> </p>
 
 
-- 🌱 I’m currently learning and working on the  **JAVA,Spring boot,Spring MVC, Spring Security,SQL** projects and also some basic understanding with UI languages **Javascript,React** and in deployment side working in **Docker,Jenkins**
+- 🌱 I’m currently learning and working on the  **JAVA,Spring boot,Spring MVC, Spring Security,MySQL,Docker,Cloud,Git** projects and also some basic understanding with UI languages **Javascript,React** and in deployment side working in **Docker,Jenkins**
 
 - 📫 Reach me by e-mail **sajusanjay7092@gmail.com**
 
