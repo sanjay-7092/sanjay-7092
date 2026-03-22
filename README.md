@@ -7,6 +7,7 @@
 
 - 💼 2+ years experience in **Backend Development & Integration**
 - 🏭 Domain experience in **Supply Chain (Dispatch Application)**
+- 💁‍♂️ Strong Knowledge in Java,Spring boot,Spring Security,MySql,Microservices
 - 🌱 Learning **AWS Cloud Services & Microservices Architecture**
 - 🔭 Currently working on **Microservices & AWS Cloud**
 - 🎓 MCA Graduate 2024 — Coimbatore
