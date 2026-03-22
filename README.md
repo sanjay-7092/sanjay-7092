@@ -32,9 +32,6 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay-7092&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-7092&layout=compact&theme=tokyonight)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjay-7092&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-7092&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
