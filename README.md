@@ -11,7 +11,7 @@
 - 🌱 Learning **AWS Cloud Services & Microservices Architecture**
 - 🔭 Currently working on **Microservices & AWS Cloud**
 - 🎓 MCA Graduate 2024 — Coimbatore
-- 💬 Ask me about **Java, Spring Boot, Spring Security, Hibernate, MySQL,Workato**
+- 💬 Ask me about **Java, Spring Boot, Spring Security, Hibernate, MySQL, Workato, Integrations**
 
 ---
 
